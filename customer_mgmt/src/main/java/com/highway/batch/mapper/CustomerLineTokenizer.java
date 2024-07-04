@@ -7,6 +7,7 @@ import org.springframework.batch.item.file.transform.PatternMatchingCompositeLin
 import java.util.HashMap;
 import java.util.Map;
 
+
 public class CustomerLineTokenizer {
     private PatternMatchingCompositeLineTokenizer lineTokenizer;
 
